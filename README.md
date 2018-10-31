@@ -8,9 +8,9 @@ This List Gets New Working Proxy every 24 hours
 
 You can Also Use My New Tool SOCKER To Check All Valid SOCKS PROXY at the current time...
 
-SOCKER Link : https://github.com/TheSpeedX/Socker
+SOCKER Link : https://github.com/TheSpeedX/socker
 
-<a href="https://github.com/TheSpeedX/Socker">Click Here To Go To Socker Page</a>
+<a href="https://github.com/TheSpeedX/socker">Click Here To Go To SOCKER Page</a>
 
 # NOTES
 
