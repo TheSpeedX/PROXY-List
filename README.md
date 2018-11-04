@@ -5,7 +5,7 @@ This could help you to pass a proxy server and keeping you anonymous..
 This List Gets New Working Proxy every 24 hours
 
 # SOCKER
-
+This List Might Have duplicate proxies!!! Use SOCKER To remove duplicate proxies and check working proxy...
 You can Also Use My New Tool SOCKER To Check All Valid SOCKS PROXY at the current time...
 
 SOCKER Link : https://github.com/TheSpeedX/socker
