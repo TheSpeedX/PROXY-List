@@ -1,8 +1,8 @@
-SOCKS5
+
+Currently Supported: SOCKS5,SOCKS4,HTTP
 
 This Proxy List Was Created By SpeedX
-I have made Available all the working SOCKS Proxy
-The SOCKS working list will be uploaded daily.....
+The working  Proxies list will be updated daily.....
 
 
 If You Like My Work And Want To Encourage me 
@@ -11,6 +11,6 @@ Your Name will also be in Contributers List...
 
 My Mail: ggspeedx29@gmail.com
 
-This List Was Last Updated On
-Sun Aug 18 19:00:34 IST 2019
-Contains 959 Proxies !!!
+This List Was Last Updated On  13.10.19 21:02:00
+
+Contains Total of 12214 Proxies !!!
