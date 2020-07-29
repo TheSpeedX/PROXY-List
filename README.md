@@ -43,9 +43,6 @@ SOCKER Link : https://github.com/TheSpeedX/socker
 
  Thanks Stefan For Providing Me Server  <br>
 Watch Out Stefan Repo <a href="https://github.com/0n1cOn3">here</a><br>
-For Any Queries Join Me On WhatsApp!!!
-      Group Link: http://bit.do/speedxgit
-<a href="http://bit.do/speedxgit">Join My Group</a>
            
   YouTube Channel: https://www.youtube.com/c/GyanaTech
   <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
@@ -57,10 +54,6 @@ For Any Queries Join Me On WhatsApp!!!
  That's All !!!
 
 # CONTACT
-
- For Any Queries Join Me On WhatsApp!!!
-    Group Link: http://bit.do/speedxgit
-<a href="http://bit.do/speedxgit">Join My Group</a>
 
            Mail: ggspeedx29@gmail.com
 
