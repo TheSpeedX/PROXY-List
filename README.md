@@ -1,6 +1,10 @@
+
 # PROXY-LIST
 
-A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!
+A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
+
+Last Updated: Saturday 08-05-2021 15:07:10 UTC  
+Total Proxies: 9096  
 
 ## DOWNLOAD
 
