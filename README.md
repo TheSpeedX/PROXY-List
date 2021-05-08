@@ -16,7 +16,7 @@ Total Proxies: `9096`
 
 ```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt -o socks4.txt```
 
-### For HTTP
+### For HTTP(S)
 
 ```curl https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt -o http.txt```
 
