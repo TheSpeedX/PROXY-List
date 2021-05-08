@@ -1,9 +1,8 @@
 name: PROXY Updater
 
-on:  
-  push:
+on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '* */12 * * *'
 
 jobs:
   build:
