@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    with:
-      fetch-depth: 0
     - name: Install Python 3
       uses: actions/setup-python@v2
       with:
