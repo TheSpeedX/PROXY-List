@@ -3,8 +3,8 @@
 
 A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
-Last Updated: `Wednesday 12-05-2021 00:23:31 UTC`  
-Total Proxies: `9449`  
+Last Updated: `Wednesday 12-05-2021 12:13:12 UTC`  
+Total Proxies: `8888`  
 
 ## DOWNLOAD
 
@@ -24,7 +24,7 @@ Total Proxies: `9449`
 
 It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.
 
-Developer Please Give Credits, Stars, And Follow If You Use My SOCKS List.  
+Please Give Credits, Stars, And Follow If You Use My SOCKS List.  
 
 You can Also Use My Tool [SOCKER](https://github.com/TheSpeedX/socker) To check for working SOCKS PROXY.
 
