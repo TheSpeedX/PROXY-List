@@ -3,8 +3,8 @@
 
 A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
-Last Updated: `Thursday 01-07-2021 00:28:46 UTC`  
-Total Proxies: `7424`  
+Last Updated: `Thursday 01-07-2021 12:13:01 UTC`  
+Total Proxies: `11126`  
 
 ## DOWNLOAD
 
