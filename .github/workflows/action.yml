@@ -1,6 +1,7 @@
 name: PROXY Updater
 
 on:
+  push:
   schedule:
     - cron: '0 */2 * * *'
 
