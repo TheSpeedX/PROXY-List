@@ -26,7 +26,7 @@ It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything 
 
 Please Give Credits, Stars, And Follow If You Use My SOCKS List.  
 
-You can Also Use My Tool [SOCKER](https://github.com/TheSpeedX/socker) To check for working SOCKS PROXY.
+You can Also Use My Tool [SOCKER](https://github.com/TheSpeedX/socker) To check for working SOCKS/HTTP(s) PROXY.
 
 ## CONTACT
 
