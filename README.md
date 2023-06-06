@@ -1,10 +1,10 @@
 
 # PROXY-LIST
 
-A list of Free, Scraped Public Proxies. UPDATED REGULARLY !!!  
+A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
 
-Last Updated: `Tuesday 06-06-2023 16:23:26 UTC`  
-Total Proxies: `6092`  
+Last Updated: `Tuesday 06-06-2023 18:11:55 UTC`  
+Total Proxies: `6254`  
 
 ## DOWNLOAD
 
@@ -26,7 +26,7 @@ It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything 
 
 Please Give Credits, Stars, And Follow If You Use My SOCKS List.  
 
-You can Also Use My Tool [SOCKER](https://github.com/TheSpeedX/socker) To check for working SOCKS/HTTP(s) PROXY.
+You can Also Use My Tool [SOCKER](https://github.com/TheSpeedX/socker) To check for working SOCKS PROXY.
 
 ## CONTACT
 
