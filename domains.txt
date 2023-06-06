@@ -1,0 +1,24 @@
+Here are 20 domains that can be used for testing proxies:
+
+1. www.google.com
+2. www.example.com
+3. www.yahoo.com
+4. www.microsoft.com
+5. www.facebook.com
+6. www.instagram.com
+7. www.twitter.com
+8. www.amazon.com
+9. www.netflix.com
+10. www.reddit.com
+11. www.wikipedia.org
+12. www.apple.com
+13. www.linkedin.com
+14. www.github.com
+15. www.stackoverflow.com
+16. www.spotify.com
+17. www.dropbox.com
+18. www.pinterest.com
+19. www.tumblr.com
+20. www.airbnb.com
+
+You can add these domains to the `domains` dictionary in the script, and users can choose any of these domains for proxy testing by entering the corresponding number.
