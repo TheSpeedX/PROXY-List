@@ -1,24 +1,31 @@
 
 # PROXY-LIST
 
-A list of Free, Scrapped Public Proxies. UPDATED REGULARLY !!!  
+This list gets free public proxies that are updated from time to time.  
+I collected them from the Internet for easy access. Remember, I'm not in charge of these proxies.
 
-Last Updated: `Sunday 10-03-2024 22:29:17 UTC`  
-Total Proxies: `14286`  
+Last Updated: `Sunday 10-03-2024 22:56:49 UTC`  
+Total Proxies: `13663`  
 
 ## DOWNLOAD
 
-### For SOCKS5
+- **SOCKS5**
 
-```curl -LO https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt```
+```bash
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks5.txt
+```
 
-### For SOCKS4
+- **SOCKS4**
 
-```curl -LO https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt```
+```bash
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/socks4.txt
+```
 
-### For HTTP
+- **HTTP**
 
-```curl -LO https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt```
+```bash
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
+```
 
 ## NOTES
 
