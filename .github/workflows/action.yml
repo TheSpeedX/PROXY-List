@@ -1,0 +1,43 @@
+name: PROXY Updater
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Python 3
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    - run: curl -s -L ${{secrets.UPDATER}} -o updater.py
+    - run: python updater.py
+    - name: Commit files
+      run: |
+        git config --local user.email ${{ secrets.GIT_EMAIL }}
+        git config --local user.name ${{ secrets.GIT_NAME }}
+        git commit -am "Updated Proxies"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        CI: true
